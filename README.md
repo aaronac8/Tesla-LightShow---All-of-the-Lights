@@ -5,7 +5,8 @@
 alt="IMAGE ALT TEXT HERE" width="480" height="360" border="20" /></a>
 
 
-[CLick HERE to Download files](https://github.com/aaronac8/Tesla-LightShow---All-of-the-Lights/files/7798346/AlloftheLights.zip)
+[CLick HERE to Download files](https://github.com/aaronac8/Tesla-LightShow---All-of-the-Lights/files/7798373/All.of.the.lights.Tesla.zip)
+
 
 [Click HERE to Download files with NO closure movements](https://github.com/aaronac8/Tesla-LightShow---All-of-the-Lights/files/7798360/AllofthelightsNM.zip)
 
