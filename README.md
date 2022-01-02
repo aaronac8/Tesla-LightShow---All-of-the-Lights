@@ -4,11 +4,11 @@
 " target="_blank"><img src="http://img.youtube.com/vi/Va9t6SWx7WE/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="480" height="360" border="20" /></a>
 
+[CLick HERE to Download files](https://github.com/aaronac8/Tesla-LightShow---All-of-the-Lights/files/7798377/All.of.the.lights.Tesla.zip)
 
-[CLick HERE to Download files](https://github.com/aaronac8/Tesla-LightShow---All-of-the-Lights/files/7798373/All.of.the.lights.Tesla.zip)
+[Click HERE to Download files with NO closure movements](https://github.com/aaronac8/Tesla-LightShow---All-of-the-Lights/files/7798381/allofthelightsNM.zip)
 
 
-[Click HERE to Download files with NO closure movements](https://github.com/aaronac8/Tesla-LightShow---All-of-the-Lights/files/7798360/AllofthelightsNM.zip)
 
 
 
