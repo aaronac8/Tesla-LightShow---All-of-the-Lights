@@ -1,7 +1,7 @@
 # Tesla-LightShow---All-of-the-Lights
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=Va9t6SWx7WE
-" target="_blank"><img src="http://img.youtube.com/vi/Va9t6SWx7WE/0.jpg" 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=w78wieTIGPg
+" target="_blank"><img src="http://img.youtube.com/vi/w78wieTIGPg/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="480" height="360" border="20" /></a>
 
 
